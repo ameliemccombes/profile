@@ -1,0 +1,122 @@
+h1 {
+  font-family: 'Rubik Mono One';
+  text-align: center;
+  font-size: 30px;
+  color: rgb(50, 50, 50);
+}
+
+h2 {
+  font-family: 'League Script', cursive;
+  font-weight: 300;
+  font-size: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  line-height: 10px;
+}
+
+h4 {
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+}
+
+body {
+  font-family: 'Lato';
+  font-weight: 300;
+  text-align: center;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  font-weight: 400;
+  color: rgb(50, 50, 50);
+  background-color: rgb(230, 230, 230);
+}
+
+.header {
+  margin: 0;
+  background-image: url("images/pineapple-supply-co-150884.jpg");
+  background-size: cover;
+  padding-bottom: 20px;
+}
+
+#profil_image {
+  margin: 0;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.btn {
+  display: block;
+  padding: 20px;
+  width: 200px;
+  margin: 0 auto;
+  border: 0.25px solid rgb(230, 230, 230);
+  border-color: rgb(230, 230, 230);
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.card {
+  background-color: rgba(240, 240, 240, 0.7);
+  border-radius: 1px;
+  box-shadow: 1px 1px 3px rgba(50, 50, 50, 0.1);
+  border: 1px solid rgba(50, 50, 50, 0.1);
+  width: 400px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+.wrapper_card_yellow {
+  background-color: #FFE700;
+  padding : 20px 0px;
+}
+
+.footer {
+  background-color: rgb(50, 50, 50);
+  color: white;
+  padding: 50px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.table {
+  margin: 0 auto;
+}
+
+.table th {
+  font-family: 'Lato';
+  font-weight: 100;
+  color: rgb(220, 220, 220);
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+#wrapper_card_image_business_designer {
+  background-image: url("images/igor-ovsyannykov-194875.jpg");
+  background-size: cover;
+  height: 300px;
+  padding: 60px;
+}
+
+#wrapper_card_image_for_design {
+  background-image: url("images/mona-eendra-208388.jpg");
+  background-size: cover;
+  height: 300px;
+  padding: 60px;
+}
